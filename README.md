@@ -5,10 +5,13 @@
 Materials
 --------------
 1 x Arduino Nano (Really any arduino should work that has two PWM outputs, two digital inputs, and SPI)
+
 2 x Analog Panel Voltmeters (0-5V Panel Mount Voltmeters)
    -- https://www.amazon.com/gp/product/B0051E8ONA
    -- https://www.ebay.com/itm/DC-0-5V-Analog-Voltmeter-Analogue-Voltage-panel-meter-SO45-directly-Connect/181981812727
+
 1 x DS3231 RTC Module -- https://www.amazon.com/gp/product/B00LX3V7F0
+
 2 x Tactile buttons
 
 Assembly
